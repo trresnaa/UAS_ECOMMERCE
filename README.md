@@ -42,8 +42,7 @@ A modern e-commerce platform for fashion products built with React frontend and 
 ### Backend
 - **Node.js** - JavaScript runtime
 - **Express.js** - Web framework
-- **MongoDB** - NoSQL database
-- **Mongoose** - MongoDB ODM
+- **MySQL** - SQL database
 - **JWT** - Authentication
 - **Multer** - File upload handling
 - **bcryptjs** - Password hashing
@@ -53,7 +52,6 @@ A modern e-commerce platform for fashion products built with React frontend and 
 
 ### Prerequisites
 - Node.js (v14 or higher)
-- MongoDB
 - npm or yarn
 
 ### Setup
